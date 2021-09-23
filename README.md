@@ -1,3 +1,3 @@
 # jeznuhay.github.io
 
-![圖](image0.png)
+![圖](image0.jpg)
